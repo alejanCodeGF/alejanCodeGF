@@ -1,7 +1,7 @@
-# Ey buenas 👋
-> **Me llamo Alejandro, y actualmente estudio una _ingenieria industrial_ en la upc, y también programación en el _42 Barcelona_**
-## Actualmente los lenguajes en los que programo:
+# BIENVENIDO A MI PERFIL 👋
+> **Me llamo Alejandro, y actualmente estudio una _ingenieria industrial_ en la upc en barcelona, y también estudio programación por mi cuenta**
+## Lenguajes de programación actuales:
 > C-C# y Python
-## En un futuro no muy lejano quiero aprender:
+## A futuro:
 > JavaScript y lo que venga 😎
-### Ten la libertad de ojear mis proyectos, y toquetear lo que quieras 👍
+### Ten la libertad de ojear mis proyectos, aunque estoy aun empezando 👍
